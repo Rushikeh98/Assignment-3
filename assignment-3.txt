@@ -1,0 +1,28 @@
+<!Doctype html>
+<html>
+<head>
+<title> ASSIGMENT</title>
+
+</head>
+
+<body>
+
+<p>  secondary memory is not directiy axcelble by cpu instried <b>data axces</b>
+from roted in to thr ram<br>sand to the cpu 
+</p> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
